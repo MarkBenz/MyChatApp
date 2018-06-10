@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1094326446215",
+    "firebase_url": "https://mychatapp-5a30c.firebaseio.com",
+    "project_id": "mychatapp-5a30c",
+    "storage_bucket": "mychatapp-5a30c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094326446215:android:94e34b49f9ef2cb0",
+        "android_client_info": {
+          "package_name": "de.markbenz.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094326446215-1slkcbjomljlb8uhop9v00galmu9hrau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.markbenz.mychatapp",
+            "certificate_hash": "cfb5af95e92e8d7ae87e900668f964df814b36d1"
+          }
+        },
+        {
+          "client_id": "1094326446215-ji621sgb5deho2la7ktd5sdhniid7emn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1094326446215-ji621sgb5deho2la7ktd5sdhniid7emn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUkCsQw8eE8oW_ZmWEGmA3mKIGgabqkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094326446215-ji621sgb5deho2la7ktd5sdhniid7emn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
