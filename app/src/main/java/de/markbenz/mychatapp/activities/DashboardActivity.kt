@@ -9,8 +9,6 @@ import android.view.MenuItem
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import de.markbenz.mychatapp.R
-import de.markbenz.mychatapp.R.id.dashboardViewPagerId
-import de.markbenz.mychatapp.R.id.mainTabs
 import de.markbenz.mychatapp.adapters.SectionPagerAdapter
 import kotlinx.android.synthetic.main.activity_dashboard.*
 

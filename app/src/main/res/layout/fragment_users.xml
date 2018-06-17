@@ -9,7 +9,7 @@
     <!-- TODO: Update blank fragment layout -->
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/friendRecyclerViewId"
+        android:id="@+id/userRecyclerViewId"
         android:layout_width="395dp"
         android:layout_height="587dp"
         android:layout_marginBottom="8dp"
